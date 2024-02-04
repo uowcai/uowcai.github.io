@@ -18,10 +18,14 @@ Our expertise spans across several key areas of artificial intelligence, includi
 - **Distributed Computing**: Systems in which components located on networked computers communicate and coordinate their actions by passing messages.
 
 ### Contact Us
-For general enquiries or specific project details, please reach out to us:
+For more information or specific inquiries, feel free to reach out to our team members:
 
-- **Phone**: +61 2 4221 3771
-- **Email**: [cai-admin@uow.edu.au](mailto:cai-admin@uow.edu.au)
+- **Prof. Wanqing Li**
+  - Email: [wanqing@uow.edu.au](mailto:wanqing@uow.edu.au)
+- **Prof. Philip Ogunbona**
+  - Email: [philip_ogunbona@uow.edu.au](mailto:philip_ogunbona@uow.edu.au)
+- **Prof. Lei Wang**
+  - Email: [lei_wang@uow.edu.au](mailto:lei_wang@uow.edu.au)
 
 ### Connect With Us
 Stay updated with our latest research and events by visiting our [official website](https://www.uow.edu.au/engineering-information-sciences/research/centre-for-artificial-intelligence/).
