@@ -18,7 +18,7 @@ Our expertise spans across several key areas of artificial intelligence, includi
 - **Distributed Computing**: Systems in which components located on networked computers communicate and coordinate their actions by passing messages.
 
 ### Contact Us
-For more information or specific inquiries, feel free to reach out to our team members:
+For more information or specific inquiries, feel free to reach out to our team members, listed in alphabetical order by their family name:
 
 - **Prof. Wanqing Li**
   - Email: [wanqing@uow.edu.au](mailto:wanqing@uow.edu.au)
